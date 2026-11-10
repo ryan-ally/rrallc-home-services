@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "rrallc-home-services",
+			"path": ".."
+		},
+		{
+			"name": "app",
+			"path": "../../app"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Dark Modern",
+		"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace"
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "RRALLC Home Services",
+    "slug": "rrallc-home-services",
+    "scheme": "rrallc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-sharing"
+    ],
+    "web": {
+      "bundler": "metro",
+      "name": "RRALLC Home Services"
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "bcf711a1-3440-4335-a194-2a1f5843749e"
+      }
+    }
+  }
+}
